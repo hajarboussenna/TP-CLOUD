@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "idEquipe": "23",
+    "nom": "Messi2",
+    "numero": "10",
+    "poste": "Attaquant"
+  },
+  {
+    "id": "2",
+    "idEquipe": "1",
+    "nom": "Ronaldo",
+    "numero": "7",
+    "poste": "Attaquant"
+  },
+  {
+    "id": "3",
+    "idEquipe": "2",
+    "nom": "Neymar",
+    "numero": "10",
+    "poste": "Attaquant"
+  },
+  {
+    "id": "4",
+    "idEquipe": "2",
+    "nom": "Mbappe",
+    "numero": "7",
+    "poste": "Attaquant"
+  },
+  {
+    "id": "1",
+    "idEquipe": "23",
+    "nom": "Messi2",
+    "numero": "10",
+    "poste": "Attaquant"
+  },
+  {
+    "id": "48",
+    "idEquipe": "66",
+    "nom": "Messi2",
+    "numero": "10",
+    "poste": "Attaquant"
+  },
+  {
+    "id": "48",
+    "idEquipe": "66",
+    "nom": "Messi2",
+    "numero": "10",
+    "poste": "Attaquant"
+  }
+]
